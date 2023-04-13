@@ -1,0 +1,15 @@
+{
+    "name": "admin/site",
+    "authors": [
+        {
+            "name": "Enter"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    "psr-4": {
+        "Photos\\": ""
+    }
+}
+}
+
